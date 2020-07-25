@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Control de Presupuesto personal.
+
+https://bit.ly/3jE4g6d
+
 ## Available Scripts
 
 In the project directory, you can run:
